@@ -1,0 +1,6 @@
+{
+    "interactionType": "true-false",
+    "correctResponsesPattern": [
+        "true"
+    ]
+}

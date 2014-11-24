@@ -1,0 +1,36 @@
+{
+    "description": {
+        "en-US": "Ben is often heard saying: "
+    },
+    "type": "http://adlnet.gov/expapi/activities/cmi.interaction",
+    "interactionType": "fill-in",
+    "correctResponsesPattern": [
+        "Bob's your uncle"
+    ],
+    "scale": [
+        {
+            "id": "likert_0",
+            "description": {
+                "en-US": "It's OK"
+            }
+        },
+        {
+            "id": "likert_1",
+            "description": {
+                "en-US": "It's Pretty Cool"
+            }
+        },
+        {
+            "id": "likert_2",
+            "description": {
+                "en-US": "It's Damn Cool"
+            }
+        },
+        {
+            "id": "likert_3",
+            "description": {
+                "en-US": "It's Gonna Change the World"
+            }
+        }
+    ]
+}

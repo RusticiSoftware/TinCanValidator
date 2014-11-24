@@ -1,0 +1,36 @@
+{
+    "description": {
+        "en-US": "Does the xAPI include the concept of statements?"
+    },
+    "type": "http://adlnet.gov/expapi/activities/cmi.interaction",
+    "interactionType": "true-false",
+    "correctResponsesPattern": [
+        "true"
+    ],
+    "choices": [
+        {
+            "id": "golf",
+            "description": {
+                "en-US": "Golf Example"
+            }
+        },
+        {
+            "id": "facebook",
+            "description": {
+                "en-US": "Facebook App"
+            }
+        },
+        {
+            "id": "tetris",
+            "description": {
+                "en-US": "Tetris Example"
+            }
+        },
+        {
+            "id": "scrabble",
+            "description": {
+                "en-US": "Scrabble Example"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "interactionType": "matching",
+    "correctResponsesPattern": [
+        "1[.]casual1[,]2[.]casual2[,]3[.]casual3[,]4[.]casual4[,]5[.]casual5"
+    ],
+    "source": [
+        {
+            "id": "1",
+            "description": {
+                "en-US": "Strongly negative"
+            }
+        },
+        {
+            "id": "2",
+            "description": {
+                "en-US": "Negative"
+            }
+        },
+        {
+            "id": "3",
+            "description": {
+                "en-US": "Neutral"
+            }
+        },
+        {
+            "id": "4",
+            "description": {
+                "en-US": "Positive"
+            }
+        },
+        {
+            "id": "5",
+            "description": {
+                "en-US": "Strongly positive"
+            }
+        }
+    ],
+    "target": [
+        {
+            "id": "casual1",
+            "description": {
+                "en-US": "The pits"
+            }
+        },
+        {
+            "id": "casual2",
+            "description": {
+                "en-US": "Ticked off"
+            }
+        },
+        {
+            "id": "casual3",
+            "description": {
+                "en-US": "Cool with it"
+            }
+        },
+        {
+            "id": "casual4",
+            "description": {
+                "en-US": "Nooice"
+            }
+        },
+        {
+            "id": "casual5",
+            "description": {
+                "en-US": "Cool BEANS!"
+            }
+        }
+    ],
+    "scale": [
+        {
+            "id": "likert_1",
+            "description": {
+                "en-US": "Negative"
+            }
+        },
+        {
+            "id": "likert_2",
+            "description": {
+                "en-US": "Neutral"
+            }
+        },
+        {
+            "id": "likert_3",
+            "description": {
+                "en-US": "Positive"
+            }
+        }
+    ]
+}

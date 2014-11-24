@@ -1,0 +1,38 @@
+{
+    "interactionType": "matching",
+    "correctResponsesPattern": [
+        "1[.]casual1[,]2[.]casual2[,]3[.]casual3[,]4[.]casual4[,]5[.]casual5"
+    ],
+    "target": [
+        {
+            "id": "casual1",
+            "description": {
+                "en-US": "The pits"
+            }
+        },
+        {
+            "id": "casual2",
+            "description": {
+                "en-US": "Ticked off"
+            }
+        },
+        {
+            "id": "casual3",
+            "description": {
+                "en-US": "Cool with it"
+            }
+        },
+        {
+            "id": "casual4",
+            "description": {
+                "en-US": "Nooice"
+            }
+        },
+        {
+            "id": "casual5",
+            "description": {
+                "en-US": "Cool BEANS!"
+            }
+        }
+    ]
+}

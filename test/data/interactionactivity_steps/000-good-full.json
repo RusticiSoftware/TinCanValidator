@@ -1,0 +1,44 @@
+{
+    "interactionType": "performance",
+    "correctResponsesPattern": [
+        "period[.]27.321661[,]eccentricity[.]0.026:0.077[,]orbital_inclination[.]4.99:5.30[,]perigee[.]356400000[,]apogee[.]406700000[,]mean_distance[385000000]"
+    ],
+    "steps": [
+        {
+            "id": "period",
+            "description": {
+                "en-US": "Time to complete sidereal orbit"
+            }
+        },
+        {
+            "id": "eccentricity",
+            "description": {
+                "en-US": "Deviation from perfect circular orbit"
+            }
+        },
+        {
+            "id": "orbital_inclination",
+            "description": {
+                "en-US": "Angle of orbit to the ecliptic"
+            }
+        },
+        {
+            "id": "perigee",
+            "description": {
+                "en-US": "Minimum orbital distance"
+            }
+        },
+        {
+            "id": "apogee",
+            "description": {
+                "en-US": "Maximum orbital distance"
+            }
+        },
+        {
+            "id": "mean_distance",
+            "description": {
+                "en-US": "Average orbital distance over time"
+            }
+        }
+    ]
+}

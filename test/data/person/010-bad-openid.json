@@ -1,0 +1,7 @@
+{
+    "objectType": "Person",
+    "openid": [
+        "http://bobsmith2000.myopenid.com",
+        "missing-scheme.myopenid.com"
+    ]
+}

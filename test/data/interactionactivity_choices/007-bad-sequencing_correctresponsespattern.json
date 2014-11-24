@@ -1,0 +1,26 @@
+{
+    "interactionType": "sequencing",
+    "correctResponsesPattern": [
+        123
+    ],
+    "choices": [
+        {
+            "id": "1",
+            "description": {
+                "en-US": "A"
+            }
+        },
+        {
+            "id": "2",
+            "description": {
+                "en-US": "B"
+            }
+        },
+        {
+            "id": "3",
+            "description": {
+                "en-US": "C"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "account": {
+        "homePage": "http://www.example.com/account/username",
+        "name": "User Name",
+        "extra": "property"
+    }
+}

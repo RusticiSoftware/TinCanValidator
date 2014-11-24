@@ -1,0 +1,17 @@
+{
+    "id": ".!@#^BLARGH!-+",
+    "actor": {
+        "name": "Sally Glider",
+        "mbox": "mailto:sally@example.com"
+     },
+     "verb": {
+         "id": "http://adlnet.gov/expapi/verbs/experienced",
+         "display": {"en-US": "experienced"}
+         },
+     "object": {
+        "id": "http://example.com/activities/solo-hang-gliding",
+        "definition": {
+            "name": { "en-US": "Solo Hang Gliding" }
+        }
+    }
+}

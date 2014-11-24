@@ -1,0 +1,6 @@
+{
+    "interactionType": "choice",
+    "correctResponsesPattern": [
+        "even[,]prime[,]positive"
+    ]
+}

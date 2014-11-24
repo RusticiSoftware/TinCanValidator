@@ -1,0 +1,38 @@
+{
+    "interactionType": "matching",
+    "correctResponsesPattern": [
+        "1[.]casual1[,]2[.]casual2[,]3[.]casual3[,]4[.]casual4[,]5[.]casual5"
+    ],
+    "source": [
+        {
+            "id": "1",
+            "description": {
+                "en-US": "Strongly negative"
+            }
+        },
+        {
+            "id": "2",
+            "description": {
+                "en-US": "Negative"
+            }
+        },
+        {
+            "id": "3",
+            "description": {
+                "en-US": "Neutral"
+            }
+        },
+        {
+            "id": "4",
+            "description": {
+                "en-US": "Positive"
+            }
+        },
+        {
+            "id": "5",
+            "description": {
+                "en-US": "Strongly positive"
+            }
+        }
+    ]
+}

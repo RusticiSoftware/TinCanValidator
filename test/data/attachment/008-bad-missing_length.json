@@ -1,0 +1,8 @@
+{
+    "usageType": "http://example.com/attachment-usage/test",
+    "display": { "en-US": "A test attachment" },
+    "description": { "en-US": "A test attachment (description)" },
+    "contentType": "text/plain; charset=ascii",
+    "sha2": "495395e777cd98da653df9615d09c0fd6bb2f8d4788394cd53c56a3bfdcd848a",
+    "fileUrl": "http://example.com/attachements/example.txt"
+}

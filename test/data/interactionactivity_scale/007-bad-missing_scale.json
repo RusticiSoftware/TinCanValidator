@@ -1,0 +1,6 @@
+{
+    "interactionType": "likert",
+    "correctResponsesPattern": [
+        "likert_4"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "http://example.com/extensions/number1": 1,
+    "http://example.com/extensions/string1": "hello world!",
+    "http://example.com/extensions/object1": {},
+    "http://example.com/extenstions/boolean1": true,
+    "http://example.com/extensions/null1": null
+}

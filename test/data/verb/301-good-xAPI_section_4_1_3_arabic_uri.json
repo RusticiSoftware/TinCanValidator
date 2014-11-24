@@ -1,0 +1,9 @@
+{
+    "id":"http://example.com/فعل/خواندن",
+    "display":{
+        "en-US": "read (e.g. a book)",
+        "de": "las (z.b. ein Buch)",
+        "jp": "読む",
+        "he": "קרה )לדוגמה בספר)"
+    }
+}

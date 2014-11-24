@@ -1,0 +1,27 @@
+{
+    "extra": "property",
+    "interactionType": "sequencing",
+    "correctResponsesPattern": [
+        "1[,]2[,]3"
+    ],
+    "choices": [
+        {
+            "id": "1",
+            "description": {
+                "en-US": "A"
+            }
+        },
+        {
+            "id": "2",
+            "description": {
+                "en-US": "B"
+            }
+        },
+        {
+            "id": "3",
+            "description": {
+                "en-US": "C"
+            }
+        }
+    ]
+}

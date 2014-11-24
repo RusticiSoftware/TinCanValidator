@@ -1,0 +1,13 @@
+{
+    "objectType": "SubStatement",
+    "actor" : {
+        "objectType": "Agent",
+        "mbox":"mailto:agent@example.com"
+    },
+    "verb" : {
+        "id":"http://example.com/confirmed",
+        "display":{
+            "en":"confirmed"
+        }
+    }
+}

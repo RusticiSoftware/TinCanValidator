@@ -1,0 +1,7 @@
+{
+    "version": "1.0.1",
+    "extensions": {
+        "http://www.example.org/tincan/extensions/ext1": ["sample", "data"],
+        "http://www.example.org/tincan/extensions/ext2": {"other": "data"}
+    }
+}

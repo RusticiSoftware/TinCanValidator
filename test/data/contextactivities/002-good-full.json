@@ -1,0 +1,15 @@
+{
+    "parent" : [
+        {"id" : "http://example.adlnet.gov/xapi/example/test1"}
+    ],
+    "grouping" : [
+        {"id" : "http://example.adlnet.gov/xapi/example/Algebra1"}
+    ],
+    "category" : [
+        {"id" : "http://example.adlnet.gov/xapi/example/middle_school"},
+        {"id" : "http://example.adlnet.gov/xapi/example/school"}
+    ],
+    "other" : [
+        {"id" : "http://example.adlnet.gov/xapi/example/books/beginning_algebra"}
+    ]
+}

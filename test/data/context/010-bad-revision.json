@@ -1,0 +1,56 @@
+{
+    "registration": "FE95FA7C-A6E0-47AD-B0A8-2C8B23E3FCAD",
+    "instructor": {
+        "objectType": "Agent",
+        "name":"Project Tin Can API Instructor",
+        "mbox":"mailto:instructor@example.com"
+    },
+    "team": {
+        "name": "Teaching staff",
+        "account" : {
+            "homePage" : "http://example.com/teaching",
+            "name" : "GroupAccount"
+        },
+        "objectType": "Group",
+        "member": [
+            {
+                "name": "Andrew Downes",
+                "mbox": "mailto:andrew@example.com",
+                "objectType": "Agent"
+            },
+            {
+                "name": "Aaron Silvers",
+                "openid": "http://aaron.openid.example.org",
+                "objectType": "Agent"
+            }
+        ]
+    },
+    "contextActivities": {
+        "parent" : {
+            "id" : "http://example.adlnet.gov/xapi/example/test1"
+        },
+        "grouping" : {
+            "id" : "http://example.adlnet.gov/xapi/example/tcapi1"
+        }
+    },
+    "revision": {
+        "invalid": "revision should not be object; should be a string"
+    },
+    "platform": "Example OS 3.4",
+    "language": "en-US",
+    "statement": {
+        "objectType":"StatementRef",
+        "id":"8f87ccde-bb56-4c2e-ab83-44982ef22df0"
+    },
+    "extensions": {
+        "http://example.com/extensions/attendance": {
+            "present": 32,
+            "absent": 2,
+            "late": 10
+        },
+        "http://example.com/extensions/event": {
+            "duration": "PT1H30M",
+            "location": "Hughes Auditorium"
+        }
+    }
+}

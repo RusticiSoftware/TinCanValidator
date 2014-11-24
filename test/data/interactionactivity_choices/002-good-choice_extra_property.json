@@ -1,0 +1,45 @@
+{
+    "extra": "property",
+    "interactionType": "choice",
+    "correctResponsesPattern": [
+        "even[,]prime[,]positive"
+    ],
+    "choices": [
+        {
+            "id": "even",
+            "description": {
+                "en-US": "This number is a multiple of 2"
+            }
+        },
+        {
+            "id": "odd",
+            "description": {
+                "en-US": "This number is a multiple of 2, plus 1"
+            }
+        },
+        {
+            "id": "prime",
+            "description": {
+                "en-US": "This number has no multiplicative factors aside from itself and 1"
+            }
+        },
+        {
+            "id": "composite",
+            "description": {
+                "en-US": "This number has multiplicative factors besides itself and 1"
+            }
+        },
+        {
+            "id": "positive",
+            "description": {
+                "en-US": "This number is greater than zero"
+            }
+        },
+        {
+            "id": "negative",
+            "description": {
+                "en-US": "This number is less than zero"
+            }
+        }
+    ]
+}

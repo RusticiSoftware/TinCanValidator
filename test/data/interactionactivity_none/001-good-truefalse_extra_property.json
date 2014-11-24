@@ -1,0 +1,7 @@
+{
+    "extra": "property",
+    "interactionType": "true-false",
+    "correctResponsesPattern": [
+        "true"
+    ]
+}

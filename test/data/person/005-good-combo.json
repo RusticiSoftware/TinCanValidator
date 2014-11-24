@@ -1,0 +1,24 @@
+{
+    "objectType": "Person",
+    "mbox": [
+        "mailto:user@example.com",
+        "mailto:webmaster@example.com"
+    ],
+    "mbox_sha1sum": [
+        "0123456789abcdef0123456789abcdef01234567"
+    ],
+    "openid": [
+        "http://bobsmith2000.myopenid.com",
+        "http://johnsmith2000.myopenid.com"
+    ],
+    "account": [
+        {
+            "homePage": "http://www.example.com/account/username",
+            "name": "User Name"
+        },
+        {
+            "homePage": "http://www.example.com/account/username2",
+            "name": "User Name2"
+        }
+    ]
+}

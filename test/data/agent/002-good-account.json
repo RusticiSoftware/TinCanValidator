@@ -1,0 +1,8 @@
+{
+    "objectType": "Agent",
+    "name":"Project Tin Can API",
+    "account": {
+        "homePage": "http://www.example.com/account/username",
+        "name": "User Name"
+    }
+}

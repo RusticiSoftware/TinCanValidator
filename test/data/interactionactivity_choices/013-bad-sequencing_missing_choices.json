@@ -1,0 +1,6 @@
+{
+    "interactionType": "sequencing",
+    "correctResponsesPattern": [
+        "1[,]2[,]3"
+    ]
+}

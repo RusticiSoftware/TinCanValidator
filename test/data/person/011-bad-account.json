@@ -1,0 +1,12 @@
+{
+    "objectType": "Person",
+    "account": [
+        {
+            "homePage": "http://www.example.com/account/username",
+            "name": "User Name"
+        },
+        {
+            "name": "User missing homePage"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "version": "1.0.1",
+    "extensions": {
+        "www.badexample.org/without/scheme": ["sample", "data"],
+        "http://www.example.org/tincan/extensions/ext2": {"other": "data"}
+    }
+}

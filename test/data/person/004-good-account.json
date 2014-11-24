@@ -1,0 +1,13 @@
+{
+    "objectType": "Person",
+    "account": [
+        {
+            "homePage": "http://www.example.com/account/username",
+            "name": "User Name"
+        },
+        {
+            "homePage": "http://www.example.com/account/username2",
+            "name": "User Name2"
+        }
+    ]
+}

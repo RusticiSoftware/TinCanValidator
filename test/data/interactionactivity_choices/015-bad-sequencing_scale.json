@@ -1,0 +1,46 @@
+{
+    "interactionType": "sequencing",
+    "correctResponsesPattern": [
+        "1[,]2[,]3"
+    ],
+    "choices": [
+        {
+            "id": "1",
+            "description": {
+                "en-US": "A"
+            }
+        },
+        {
+            "id": "2",
+            "description": {
+                "en-US": "B"
+            }
+        },
+        {
+            "id": "3",
+            "description": {
+                "en-US": "C"
+            }
+        }
+    ],
+    "scale": [
+        {
+            "id": "likert_1",
+            "description": {
+                "en-US": "Negative"
+            }
+        },
+        {
+            "id": "likert_2",
+            "description": {
+                "en-US": "Neutral"
+            }
+        },
+        {
+            "id": "likert_3",
+            "description": {
+                "en-US": "Positive"
+            }
+        }
+    ]
+}

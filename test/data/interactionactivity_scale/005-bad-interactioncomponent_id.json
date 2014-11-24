@@ -1,0 +1,38 @@
+{
+    "interactionType": "likert",
+    "correctResponsesPattern": [
+        "likert_4"
+    ],
+    "scale": [
+        {
+            "id": 1,
+            "description": {
+                "en-US": "Strongly negative"
+            }
+        },
+        {
+            "id": "likert_1",
+            "description": {
+                "en-US": "Negative"
+            }
+        },
+        {
+            "id": "likert_2",
+            "description": {
+                "en-US": "Neutral"
+            }
+        },
+        {
+            "id": "likert_3",
+            "description": {
+                "en-US": "Positive"
+            }
+        },
+        {
+            "id": "likert_4",
+            "description": {
+                "en-US": "Strongly positive"
+            }
+        }
+    ]
+}
