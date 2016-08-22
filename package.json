@@ -12,7 +12,7 @@
   ],
   "name": "tin-can-json-schema-validator",
   "description": "Tin Can JSON Schema Validator",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/RusticiSoftware/TinCanValidator.git"
