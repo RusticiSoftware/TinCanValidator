@@ -9,7 +9,7 @@ test:
 	./validate.js -t statement test/data/statement/000-good*.json
 
 clean:
-        rm -rf node_modules
+	rm -rf node_modules
 	cd lib
 	rm -rf schema/*
 	git submodule deinit -f .
